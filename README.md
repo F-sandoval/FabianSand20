@@ -1,10 +1,12 @@
 <div align="center">
+  
+<img src="banner.png" width="100%" alt="Banner"/>
+  
+# 👋 Hi there! I'm Fabián Sandoval
 
-# 👋 Hi, I'm Fabián Sandoval
+### Full Stack Developer | UI/UX Designer
 
-### Full Stack Developer • UI/UX Designer • Front-End Engineer
-
-Building digital experiences where clean code meets thoughtful design.
+*Designing intuitive experiences. Developing scalable solutions.*
 
 <br>
 
@@ -34,7 +36,7 @@ I'm passionate about solving real-world problems through technology, creating so
 ## 🎨 Front-End
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react" />
 </p>
 
 ---
@@ -42,16 +44,25 @@ I'm passionate about solving real-world problems through technology, creating so
 ## ⚙️ Back-End
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 ---
 
-## 🎯 CMS & E-commerce
+## 🗄️ Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=wordpress" />
-<img src="https://cdn.simpleicons.org/shopify/7AB55C" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+---
+
+## 🌐 CMS & E-commerce
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+  <img src="https://cdn.simpleicons.org/drupal/0678BE" height="48" alt="Drupal" />
+  <img src="https://cdn.simpleicons.org/shopify/7AB55C" height="48" alt="Shopify" />
 </p>
 
 ---
@@ -59,7 +70,7 @@ I'm passionate about solving real-world problems through technology, creating so
 ## 🎨 Design
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
 </p>
 
 ---
@@ -67,22 +78,8 @@ I'm passionate about solving real-world problems through technology, creating so
 ## 🧰 Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
@@ -91,9 +88,9 @@ I'm passionate about solving real-world problems through technology, creating so
 - 💻 Developing modern web applications.
 - 🎨 Designing intuitive digital experiences.
 - 🚀 Building responsive and scalable interfaces.
-- 🧩 Solving problems through technology.
+- 🧩 Solving real-world problems through technology.
 - 📚 Continuously improving my skills.
-- 🤝 Working in collaborative environments.
+- 🤝 Collaborating with multidisciplinary teams.
 
 ---
 
@@ -101,12 +98,12 @@ I'm passionate about solving real-world problems through technology, creating so
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/TU-LINKEDIN/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/fabi%C3%A1n-sandoval-e/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:fsandoval.design@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
