@@ -1,17 +1,27 @@
-<div id="header" align="center">
-    <img src="" alt="">
-    <h1 align="center"> Hi, I'm Fabián </h1>
-    <h3 align="center">I am a Web Designer and Programmer with experience in digital design. My goal is to ensure innovative digital experiences and focus them on the user. I am passionate about challenging the normal parameters of creativity in projects and my goal is to combine my technical skills with my love for design. I always strive to strike a balance between aesthetics and functionality to deliver an exceptional user experience. I am committed to my professional growth and contributing to the success of the company in a collaborative and dynamic environment.</h3>
-  </div>
-  
-  ---
-  
-  ### About Me:
-  
-  - 🔭 Currently, I am studying web design and development at CETAV
-  - 💬 Ask me about HTML, CSS, Javascript
-  - 📫 How to reach me: fsandoval.design@gmail.com
-  - 🌱 I’m currently learning Javascript, Python
+<div align="center">
+
+# Hi there, I'm Fabián Sandoval 👋
+
+### Full Stack Developer | UI/UX Designer | Front-End Specialist
+
+I build modern, scalable and user-centered digital products by combining software engineering with UI/UX design principles.
+
+My background in design allows me to create intuitive interfaces, while my development experience enables me to transform ideas into responsive, accessible and high-performance applications.
+
+I'm passionate about building products that are not only visually appealing, but also maintainable, efficient and focused on solving real-world problems.
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 💻 Full Stack Developer focused on modern web applications
+- 🎨 Strong UI/UX and Product Design background
+- ⚡ Passionate about clean code, performance and accessibility
+- 🌱 Currently learning Node.js, Python and cloud technologies
+- 🤝 Open to collaborate on web applications and open-source projects
+- 📫 Reach me at **fsandoval.design@gmail.com**
 
 ---
 
