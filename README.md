@@ -26,19 +26,29 @@ I'm passionate about building products that are not only visually appealing, but
 ---
 
   <div align="center">
-    <h3>🛠 Languages and tools:</h3>
-    <div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="HTML
-      " width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="html5" alt="HTML
-      " width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="html5" alt="HTML
-      " width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="html5" alt="HTML
-      " width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="html5" alt="HTML
-      " width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="html5" alt="HTML
-      " width="40" height="40"/>&nbsp;
-    </div>
+## 🛠 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,illustrator" />
+</p>
   </div>
